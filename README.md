@@ -1,4 +1,4 @@
-# AWS Cognito Backend
+# AWS Cognito Frontend
 
 This React project integrates aws cognito auth services provided by backend.
 
